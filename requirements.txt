@@ -1,0 +1,6 @@
+requests
+BeautifulSoup
+telebot (pyTelegramBotAPI)
+urllib.request
+re
+unittest
